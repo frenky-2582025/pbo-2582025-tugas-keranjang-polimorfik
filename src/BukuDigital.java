@@ -1,3 +1,4 @@
+// Catatan: Commit ketiga untuk finalisasi program
 public class BukuDigital extends Buku implements BisaDiunduh {
     private double ukuranMb;
 
