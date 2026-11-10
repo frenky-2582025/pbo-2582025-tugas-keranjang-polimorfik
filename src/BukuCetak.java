@@ -1,3 +1,4 @@
+// Catatan: Finalisasi subclass BukuCetak untuk commit ketiga
 public class BukuCetak extends Buku {
     private int beratGram;
 

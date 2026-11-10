@@ -1,3 +1,5 @@
+// Catatan: Penambahan commit kedua untuk logika keranjang
+
 public class TokoBuku {
 
     public static int hitungTotal(Buku[] keranjang) {
